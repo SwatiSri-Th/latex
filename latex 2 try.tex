@@ -1,0 +1,97 @@
+\documentclass[12pt]{article}
+\usepackage{enumitem}
+\title{Recape what you have learnt so far}
+\author{SWATI SRI THINGBAIJAM}
+\date{23th, September 2021}
+
+\begin{document}
+\maketitle
+\pagenumbering{roman}
+\section{First section}\label{sec1} 
+The complex command of the list will provided in section.2
+\\1. List the name of the fruits
+\begin{itemize}
+\item apple
+\item mango
+\end{itemize}
+\begin{itemize}
+\centering
+\huge
+\itshape
+\item[wild animal $\diamond$] list the name of some animals
+\item[$-$]tiger
+\item[$-$]lion
+\end{itemize}
+\begin{itemize}
+\item[$-$]second one
+\item[$\ast$]third 
+\item[$\diamond$]fourth
+\end{itemize}
+\begin{itemize}
+\item[$=>$]Fifth 
+\item[345].six.
+\end{itemize}
+\newpage
+\section{Second section}\label{sec2}
+In section 1, some fruits are listed. In this section, we will learn some advanced commands of list.
+%\ref{sec3}
+\begin{enumerate}[label={(\alph*)}]
+\item one item 
+\item[$****$]Printing of four stars. 
+\item[$\#\#\#$]Printing of three hash.
+\begin{enumerate}[label={(\alph*)}]
+\item two item
+\begin{enumerate}[label={(\arabic*)}]
+\item third item 
+\item [$\&\&\&$]Printing of three ampersands.
+\item fourth item
+\begin{enumerate}[label={(\roman*)}]
+\item fifth item 
+\item[$--- >$]Printing of arrow.
+\item sixth item.
+%\renewcommand{\labelitemiii}{\Alph{enumiv}}
+\begin{enumerate}[label={\Alph*}]
+\setcounter{enumiv}{3}
+\item seventh item.
+\item eighth item
+\end{enumerate}
+\end{enumerate}
+\end{enumerate}
+\item[$****$]Printing four stars.
+\end{enumerate}
+\end{enumerate}
+\newpage
+\section{Third section}\label{3}
+\begin{itemize}
+\item[$\ast$]this is the first point
+\item[$\ast$]printing the asterik
+\end{itemize}
+\begin{itemize}
+\item[.]this is the second point
+\item[.]printing of dot
+\end{itemize}
+\begin{itemize}
+\item[$\diamond$]this is the third point
+\item[$\diamond$]printing of diamond
+\end{itemize}
+4th section starts
+\begin{enumerate}[label={\arabic*}]
+\item first item
+\item first number of item
+\begin{enumerate}[label={(\alph*)}]
+\item second item
+\item second number item
+\begin{enumerate}[label={\roman*}]
+\setcounter{enumiii}{4.}
+\item third item
+\item third number item
+\begin{enumerate}[label={\Alph*}]
+\setcounter{enumiv}{9.}
+\item eight item
+\item nine item
+\end{enumerate}
+\end{enumerate}
+\end{enumerate}
+\end{enumerate}
+\end{enumerate}
+\end{document}

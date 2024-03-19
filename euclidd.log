@@ -1,0 +1,242 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.22)  2 OCT 2021 09:21
+entering extended mode
+**./euclidd.tex
+(euclidd.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+(C:\Users\hp\Desktop\latex\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\hp\Desktop\latex\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\hp\Desktop\latex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\hp\Desktop\latex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\hp\Desktop\latex\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\hp\Desktop\latex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\hp\Desktop\latex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\hp\Desktop\latex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\hp\Desktop\latex\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(C:\Users\hp\Desktop\latex\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\hp\Desktop\latex\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@tempdima=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count190
+\c@continuedfloat=\count191
+)
+\c@subfigure=\count192
+\c@subtable=\count193
+)
+(C:\Users\hp\Desktop\latex\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen148
+\WF@size=\dimen149
+\c@WF@wrappedlines=\count194
+\WF@box=\box50
+\WF@everypar=\toks17
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\hp\Desktop\latex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box51
+)
+(euclidd.aux)
+\openout1 = `euclidd.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ (C:\Users\hp\Desktop\latex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen150
+\scratchbox=\box52
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen151
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks19
+) (C:\Users\hp\Desktop\latex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\hp\Desktop\latex\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+<EUCLID 2.jpg, id=1, 212.29312pt x 237.88875pt>
+File: EUCLID 2.jpg Graphic file (type jpg)
+<use EUCLID 2.jpg>
+Package pdftex.def Info: EUCLID 2.jpg  used on input line 16.
+(pdftex.def)             Requested size: 0.0pt x 195.0pt.
+! Missing = inserted for \ifdim.
+<to be read again> 
+                   \p@ 
+l.16 ...udegraphics[scale=0.5\textwidth]{EUCLID 2}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing = inserted for \ifdim.
+<to be read again> 
+                   \p@ 
+l.16 ...udegraphics[scale=0.5\textwidth]{EUCLID 2}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing { inserted.
+<to be read again> 
+                   \wd 
+l.16 ...udegraphics[scale=0.5\textwidth]{EUCLID 2}
+                                                  
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.16 ...udegraphics[scale=0.5\textwidth]{EUCLID 2}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.16 ...udegraphics[scale=0.5\textwidth]{EUCLID 2}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \hss 
+l.16 ...udegraphics[scale=0.5\textwidth]{EUCLID 2}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \hss 
+l.16 ...udegraphics[scale=0.5\textwidth]{EUCLID 2}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.16 ...udegraphics[scale=0.5\textwidth]{EUCLID 2}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--19
+[]
+ []
+
+[1
+
+{C:/Users/hp/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (euclidd.aux) ) 
+Here is how much of TeX's memory you used:
+ 2580 strings out of 478864
+ 44267 string characters out of 2857618
+ 341408 words of memory out of 3000000
+ 20533 multiletter control sequences out of 15000+600000
+ 404372 words of font info for 30 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,7n,77p,303b,249s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C
+:\Users\hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk>
+<C:/Users/hp/Desktop/latex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/
+hp/Desktop/latex/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on euclidd.pdf (1 page, 28647 bytes).
+PDF statistics:
+ 22 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

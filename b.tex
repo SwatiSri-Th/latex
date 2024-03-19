@@ -1,0 +1,24 @@
+\documentclass[12pt]{article}
+\usepackage{makecell}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{adjustbox}
+\begin{document}
+\begin{table}
+\caption{Comparison of different schemes.}
+\begin{adjustbox}{angle=45}
+\begin{tabular}{|l||l||c||c||c||c||c||c}
+\toprule
+Schemes & \makecell{Multi\\secret} & \makecell{Type of\\domain} & \makecell{Pixel\\expansion} & \makecell{Different sized\\secret images} & Color depth  &  Quality of image  & Year \\ [1.5ex] \cline{2-5}
+\midrule
+Lin  &  No  &  Spatial & Yes & No & Gray &  low  & 2004\\ \\
+Yang &  No  &  Spatial & Yes & No & Gray & Average & 2007 \\ \\
+Chang & N0 & Spatial  & Yes & No & Gray & low & 2008 \\\\
+Eslami & No & Spatial & Yes & No & Gray & low & 2008\\ \\
+Singh  & No & Spatial & No  & No & Gray & Average & 2012\\ \\
+Girdhar & No & Frequency & Yes & No & Gray & High & 2013 \\ \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}
+\end{document}

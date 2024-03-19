@@ -1,0 +1,174 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.22)  3 OCT 2021 20:15
+entering extended mode
+**"./eifell tower.tex"
+(eifell tower.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+(C:\Users\hp\Desktop\latex\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\hp\Desktop\latex\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\hp\Desktop\latex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\hp\Desktop\latex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\hp\Desktop\latex\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\hp\Desktop\latex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\hp\Desktop\latex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\hp\Desktop\latex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\hp\Desktop\latex\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen141
+\WF@size=\dimen142
+\c@WF@wrappedlines=\count190
+\WF@box=\box50
+\WF@everypar=\toks17
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\hp\Desktop\latex\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(C:\Users\hp\Desktop\latex\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\hp\Desktop\latex\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen143
+\captionmargin@=\dimen144
+\captionwidth=\dimen145
+\caption@tempdima=\dimen146
+\caption@indent=\dimen147
+\caption@parindent=\dimen148
+\caption@hangindent=\dimen149
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count191
+\c@continuedfloat=\count192
+Package caption Info: wrapfig package is loaded.
+)
+\c@subfigure=\count193
+\c@subtable=\count194
+)
+(C:\Users\hp\Desktop\latex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box51
+)
+(eifell tower.aux)
+\openout1 = `"eifell tower.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(C:\Users\hp\Desktop\latex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen150
+\scratchbox=\box52
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen151
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks19
+) (C:\Users\hp\Desktop\latex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\hp\Desktop\latex\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+Underfull \hbox (badness 1087) in paragraph at lines 10--12
+\OT1/cmr/m/n/12 Fair and was ini-tu-ally crit-i-cised by some
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+<paris.jpg, id=1, 1204.5pt x 1204.5pt>
+File: paris.jpg Graphic file (type jpg)
+<use paris.jpg>
+Package pdftex.def Info: paris.jpg  used on input line 17.
+(pdftex.def)             Requested size: 142.25475pt x 113.80379pt.
+
+Overfull \hbox (41.61346pt too wide) in paragraph at lines 8--25
+[]$[]$ $[]$
+ []
+
+[1{C:/Users/hp/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./paris.jpg>]
+(eifell tower.aux) ) 
+Here is how much of TeX's memory you used:
+ 2609 strings out of 478864
+ 44560 string characters out of 2857618
+ 344068 words of memory out of 3000000
+ 20544 multiletter control sequences out of 15000+600000
+ 406166 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,8n,77p,459b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/hp/Desktop/latex/fonts/type1/public/amsfonts/cm/c
+mr12.pfb>
+Output written on "eifell tower.pdf" (1 page, 246240 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

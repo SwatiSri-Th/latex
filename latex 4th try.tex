@@ -1,0 +1,57 @@
+\documentclass[12pt]{article}
+\usepackage{mathtools}
+\usepackage{xfrac}
+\begin{document}
+\begin{align*}
+1.~\int_{-1}^8 \frac{1}{\sqrt[3]{x}}{d}x=&\frac{3}{2} (8^{\sfrac{2}{3}}+{1^\sfrac{2}{3}})=\frac{15}{2} \\
+2.~\Gamma(x)&=\lim\limits_{n\to\infty}\prod_{v=0}^{n-1}\frac{n!n^{x-1}}{x+v}\\ &=\lim\limits_{n\to\infty}\frac{n!n^{x-1}}{x(x+1)(x+2)...(x+n-1)}\\&=\int_{0}^{\infty}e^{-1}t^{x-1}dt
+\end{align*}
+
+\newpage
+\[Y(x)=
+\begin{cases}
+-1 : x<0 \\
+0 : x=0 \\
++1 : x>0
+\end{cases}
+\]
+
+\[f(x)=
+\begin{cases}
+\frac{x}{3}  &\quad\text{if} ~x~\text{mod 3=0}\\
+3x+1    &\quad\text{if}~{x}~\text{mod 3=2}\\
+3x+2     &\quad\text{otherwise}
+\end{cases}
+\]
+
+\newpage
+\[
+\begin{bmatrix}
+P_{n+1}\\
+Q_{n+1}
+\end{bmatrix}
+=\text B_n~mod~N 
+\begin{bmatrix}
+P_n+cQ_n\\
+dP_n+Q_n+cdQ_n\\
+\end{bmatrix}
+\text mod  N\\
+\]
+\[
+= B 
+\begin{bmatrix}
+P_n\\
+Q_n
+\end{bmatrix}
+mod ~N = 
+\begin{bmatrix}
+1&c\\
+d&cd+1
+\end{bmatrix}
+\begin{bmatrix}
+P_n\\
+Q_n
+\end{bmatrix}
+mod \; N
+\]
+\end{document}

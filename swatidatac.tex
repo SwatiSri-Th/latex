@@ -1,0 +1,76 @@
+\documentclass[13pt]{article}
+\usepackage[a4paper]{geometry}
+\usepackage{amsmath}
+\usepackage{array}
+\begin{document}
+    \Large \begin{itemize}
+    \item \Large Let the Original data be 11111010 10100011 11101010 10101101.The data is divided into 4 sections i.e. k=4 and each section contains 8 bits. Find the checksum generated at sender side and check whether the data is accepted or rejected by receiver.
+    \end{itemize}
+    \item \Large Ans:- Here we have,
+    \hspace{3mm} \Large k=4, m=8\\
+    \setlength{\tabcolsep}{\center}
+    \begin{tabular}{ r | r }
+    \underline{{At sender side} & \underline{At receiver side}}\\\\
+    11111010 & 11111010\\ \underline{10100011} & \underline{10100011}\\ \textcircled{$1$}10011101 & \textcircled{$1$}10011101 \\\underline{$\hookrightarrow$ \hspace{10mm} 1}  & \underline{$\hookrightarrow$ \hspace{10mm} 1} \\ 10011110 & 10011110 \\ \underline{11101010} & \underline{11101010} \\ \textcircled{$1$}10001000 & \textcircled{$1$}10001000 \\  \underline{$\hookrightarrow$ \hspace{10mm} 1} & \underline{$\hookrightarrow$ \hspace{10mm} 1} \\ 10001001 & 10001001 \\ \underline{10101101} & \underline{10101101} \\ \textcircled{$1$}00110110 &  \textcircled{$1$}00110110\\ \underline{$\hookrightarrow$ \hspace{10mm} 1} & \underline{$\hookrightarrow$ \hspace{10mm} 1} \\ Sum:- \underline{00110111} &  00110111\\Checksum: 11001000 &  \underline{11001000}\\& Sum:- 11111111\\ & Complement:- 00000000\\
+    \end{tabular}
+    \item \Large \vspace{10mm} Thus, The Data is Accepted by the Receiver.
+    \vspace{10mm}\hline
+\newpage
+\begin{itemize}
+    \item \Large What is the difference between pure and slotted Aloha?\\  Derive the efficiency of them.\vspace{2mm}
+    \end{itemize}
+    \item Ans: The difference between Pure Aloha and Slotted Aloha are: \\
+   \begin{center}
+   \begin{tabular}{||m{7cm}|m{7cm}||}
+    \hline Pure Aloha & Slotted Aloha\\ \hline \vspace{1mm} The data can be transmitted at any time by any station & \vspace{1mm}Data can be transmitted at the beginning of the time slot \\ \hline \vspace{1mm} In Pure Aloha, time is continuous and is not globally synchronized  &\vspace*{1mm} In Slotted Aloha, time is discrete and is globally synchronized. \\ \hline \vspace{1mm} It does not decrease the number of collision. &\vspace{1mm} It decrease the number of collision to half, thus double the efficiency \\ \hline \vspace{1mm}Does not reduce the number of collisions.\% &  \vspace{1mm} Slotted Aloha reduces the number of collisions to half, thus doubles the efficiency.\\ \hline\vspace{1mm}  Probability of  successful transmitted of data packet is$=G\times e^{-2G} $ & \vspace{1mm} Probability of  successful transmitted of data packet is  $=G\times e^{-G} $ \\ \hline
+   \end{tabular} 
+   \end{center}
+   \newpage
+\item \vspace{8mm} \underline{Derivation of efficiency Pure Aloha:}\\
+    \par \vspace{3mm}We know,
+    \begin{align*}
+    S = G*e^{(-2G)} \longrightarrow 1
+    \end{align*}
+    \par Substituting the Value of S, we have
+\begin{align*}
+    \frac{dS}{dG} &= \frac{dG*e^{-(2G)}}{dG}\\
+    &= e^{(-2G)}*\frac{dG}{dG} + G\frac{de^{(-2G)}}{dG} = 0\\
+    &= e^{(-2G)}*1 + Ge^{(-2G)}(-2) = 0\\
+    &= e^{(-2G)}*(1-2G) = 0
+    \end{align*}
+    \begin{align*}
+    G &= \frac{1}{2}\\
+    S &= \frac{1}{2} * e^{(-2*\sfrac{1}{2})}
+    \end{align*}
+    Where, e = 2.718\\
+    \begin{align*}
+    &= \frac{1}{2}(e)\\
+    &= \frac{1}{2} * 2.718\\
+    &= 18.4.\% \\
+\end{align*}
+\newpage
+\item \vspace{8mm} \underline{Derivation of efficiency of Slotted Aloha}\\
+    \par \vspace{3mm} We know,
+   \begin{align*}\label{eq1}
+    S=G\times e^{-G} \longrightarrow 2
+   \end{align*}
+    \par For Maximum efficiency
+\begin{align*}
+      \frac{dS}{dG}&=0 \\
+      \frac{d(G\times e^{-G})}{dG}&=0\\
+      \frac{Gd(e^{-G})}{dG}+\frac{e^{-G}dG}{dG}&=0\\
+      -Ge^{-G}+e^{-G}&=0\\
+      e^{-G}(1-G)&=0\\
+      G&=1
+      \end{align*}
+    \par From equation(2) putting G=1
+    \begin{align*}
+    S&=1\times e^{-1\times 1}\\
+    &=1\times e^{-1}\\
+    &=1\times \frac{1}{e}\\
+    &=1\times \frac{1}{2.718}\\
+    &=36.8.\%
+    \end{align*}
+Thus, the above are the derivation of Pure Aloha and Slotted Aloha.
+\vspace{10mm}\hline
+\end{document}
